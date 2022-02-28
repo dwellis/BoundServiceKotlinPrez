@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">BoundServiceKotlinPrez</string>
+    <string name="random_number_button_label">Random Number Toast</string>
+</resources>
